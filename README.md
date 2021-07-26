@@ -1,6 +1,6 @@
 ### Hello W0rlD !
 
-![Developer fun](https://github.com/[LyriCaGitHubber]/[LyriCaGitHubber]/blob/dev_fun.jpeg?raw=true)
+![Developer fun](https://miro.medium.com/max/1400/1*99QW3Cgy77Mya7sX7TbbYA.jpeg)
 
 
 <!--
