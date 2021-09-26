@@ -1,6 +1,6 @@
 ### Hello W0rlD !
 
-![Developer fun](https://miro.medium.com/max/1400/1*99QW3Cgy77Mya7sX7TbbYA.jpeg)
+![Developer fun](https://miro.medium.com/max/400/1*99QW3Cgy77Mya7sX7TbbYA.jpeg)
 
 
 <!--
