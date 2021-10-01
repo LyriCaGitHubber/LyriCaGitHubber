@@ -15,3 +15,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif?cid=790b7611d267f1be3450d65f0e5ee3e534f658ddc8e6d5e3&rid=giphy.gif&ct=g" />
   </p>
+  
+  <h3>Sound bites</h3>
+  
+  - “The NASA has landed robots on Mars, and here we’re still struggling to center-align our divs!”
