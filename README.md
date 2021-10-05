@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Sunshine](https://github.com/LyriCaGitHubber/sunshine)
+- 🔭 I’m currently working on **[Sunshine](https://github.com/LyriCaGitHubber/sunshine)**
 
 - 📫 Contact me: **pf.munich.dev@gmail.com**
 
